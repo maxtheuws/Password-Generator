@@ -1,0 +1,2 @@
+Een programma dat een willekeurig wachtwoord genereert met configureerbare complexiteit.
+Dit programma genereert een wachtwoord voor je op basis van je input. Eerst vraagt het om je input van wat je allemaal in je wachtwoord wil. Hierna gaat hij kijken welke keuzes je hebt gemaakt en welke optie hij moet gaan kiezen. Na deze afweging te maken print hij je gegeneerde wachtwoord. Ik zou mijn code nog overzichtelijker en rustiger kunnen maken, maar ik ga eerst verder met de volgende opdrachten.
